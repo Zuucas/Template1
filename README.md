@@ -1,0 +1,7 @@
+![home](https://github.com/Zuucas/Template1/assets/106625939/e24e82da-8160-4fc6-af55-ab3919a99327)
+![homeSmartphone](https://github.com/Zuucas/Template1/assets/106625939/66714483-789b-4151-9075-00aa2c95b648)
+![section](https://github.com/Zuucas/Template1/assets/106625939/256653ef-865e-434d-a218-b903de8b9c62)
+![footer](https://github.com/Zuucas/Template1/assets/106625939/4259859d-f6d4-4e25-8d12-a1dcac406e16)
+![sectionButton](https://github.com/Zuucas/Template1/assets/106625939/abcec84c-199f-4b7b-bd6c-24047da775b4)
+![sectionSmarthphone](https://github.com/Zuucas/Template1/assets/106625939/a45565bc-567c-41e8-b53b-edd47c9541c6)
+![footer](https://github.com/Zuucas/Template1/assets/106625939/e4f59244-8488-47e9-bc36-3e388a96be5a)
