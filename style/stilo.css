@@ -32,6 +32,14 @@ body{
     font-size: 30px;
 }
 
+.home-logo{
+    text-decoration: none;
+}
+.stfake:hover{
+    color: #5fdca9;
+    cursor: pointer;
+}
+
 .menu{
     flex: 70%;
     text-align: right;
@@ -149,7 +157,8 @@ body{
 .card:hover{
     background: #5fdca9;
     color: white;
-    padding: 50px;
+    padding: 51px;
+    box-shadow: 5px 5px 15px #203237;
 
 }
 .card:hover img{
